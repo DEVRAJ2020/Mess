@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "28787099017",
+    "project_id": "mess-book-c4faf",
+    "storage_bucket": "mess-book-c4faf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:28787099017:android:a94f86360a2b417c8b0d58",
+        "android_client_info": {
+          "package_name": "com.mess"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAP6BThDyl9K4vrPzHFVYUc66s9Fg-QCsQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
